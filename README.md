@@ -6,7 +6,12 @@ Zaimplementowane funkcjonalności (0.46):
 - poruszanie się z użyciem raycastu i navmeshagent.
 - system walki - jedno kliknięcie odpala Coroutine z zapętlonym atakiem.
 - umiejętnośći (w przyszłości zależne od klasy).
-- plecak - dropowanie itemów, podnoszenie z ziemi.
+- używalne przedmioty (potiony).
+- przedmioty do walki (miecze).
+- plecak - wyrzucanie przedmiotów, podnoszenie ich z ziemi.
+- system odradzania przeciwników.
+- obrońcy miasta atakują mobki jeśli znajdą się w ich zasięgu wzroku.
+- obrońcy miasta atakują gracza ze statusem "killer".
 - kooperacja dla 4 graczy.
 - 
 
@@ -17,6 +22,7 @@ Planowane funkcjonalnosci:
 - klasy postaci (rycerz, mag, łucznik, nekromanta).
 - system zadań.
 - sklepy, nauczyciele umiejętności.
+- tablica loot'u.
 
 
 Bugi:
