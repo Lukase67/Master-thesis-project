@@ -1,6 +1,6 @@
 Dark Hunt
 
-![DarkHunt v0.46](https://i.imgur.com/dMyThYM.jpg)
+![DarkHunt v0.5](https://i.imgur.com/dMyThYM.jpg)
 
 Zaimplementowane funkcjonalności (0.46):
 - poruszanie się z użyciem raycastu i navmeshagent.
@@ -30,6 +30,7 @@ v0.46:
 Download:
 https://drive.google.com/open?id=1AZ8KKdDbIzzzp5Fj1rE9hQmU2azJdJX5
 
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 v0.5:
 Zmiany:
