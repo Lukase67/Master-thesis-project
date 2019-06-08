@@ -1,6 +1,6 @@
 Dark Hunt
 
-![DarkHunt v0.46](https://i.imgur.com/I8bB6Gp.jpg)
+![DarkHunt v0.46](https://i.imgur.com/dMyThYM.jpg)
 
 Zaimplementowane funkcjonalności (0.46):
 - poruszanie się z użyciem raycastu i navmeshagent.
@@ -26,5 +26,14 @@ Planowane funkcjonalnosci:
 - sklepy, nauczyciele umiejętności.
 - tablica loot'u.
 
+v0.46:
 Download:
-v0.46: https://drive.google.com/open?id=1AZ8KKdDbIzzzp5Fj1rE9hQmU2azJdJX5
+https://drive.google.com/open?id=1AZ8KKdDbIzzzp5Fj1rE9hQmU2azJdJX5
+
+
+v0.5:
+Zmiany:
+- UI do trybu kooperacji.
+- dużo małych poprawek.
+Download:
+https://drive.google.com/open?id=1AZ8KKdDbIzzzp5Fj1rE9hQmU2azJdJX5
