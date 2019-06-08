@@ -26,12 +26,12 @@ Planowane funkcjonalnosci:
 - sklepy, nauczyciele umiejętności.
 - tablica loot'u.
 
-v0.46:
+DarkHunt v0.46:
 
 Download:
 https://drive.google.com/open?id=1AZ8KKdDbIzzzp5Fj1rE9hQmU2azJdJX5
 
-v0.5:
+DarkHunt v0.5:
 
 Zmiany:
 
