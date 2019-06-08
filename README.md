@@ -30,8 +30,6 @@ v0.46:
 Download:
 https://drive.google.com/open?id=1AZ8KKdDbIzzzp5Fj1rE9hQmU2azJdJX5
 
-|||||||||||||||||||||||||||||||||||||||||||||||
-
 v0.5:
 Zmiany:
 - UI do trybu kooperacji.
