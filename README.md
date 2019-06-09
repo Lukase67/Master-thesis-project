@@ -1,4 +1,5 @@
 # **Dark Hunt**
+**Action RPG Fantasy game**
 
 ![DarkHunt v0.5](https://i.imgur.com/dMyThYM.jpg)
 
