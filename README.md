@@ -19,7 +19,6 @@
 - zdobywanie doświadczenia.
 
 # **Planowane funkcjonalnosci:**
-- kooperacja dla 4 graczy.
 - synchronizacja danych w grze kooperacyjnej pomiędzy klientami.
 - zapis stanu gry.
 - klasy postaci (rycerz, mag, łucznik, nekromanta).
