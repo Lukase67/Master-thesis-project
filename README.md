@@ -2,7 +2,7 @@
 
 ![DarkHunt v0.5](https://i.imgur.com/dMyThYM.jpg)
 
-## **Zaimplementowane funkcjonalności (0.46):**
+# **Zaimplementowane funkcjonalności (0.46):**
 - poruszanie się z użyciem raycastu i navmeshagent.
 - system walki - jedno kliknięcie odpala zapętlony atak.
 - umiejętności (w przyszłości zależne od klasy).
@@ -17,7 +17,7 @@
 - obrońcy miasta atakują gracza ze statusem "killer".
 - zdobywanie doświadczenia.
 
-## **Planowane funkcjonalnosci:**
+# **Planowane funkcjonalnosci:**
 - kooperacja dla 4 graczy.
 - synchronizacja danych w grze kooperacyjnej pomiędzy klientami.
 - zapis stanu gry.
@@ -26,14 +26,14 @@
 - sklepy, nauczyciele umiejętności.
 - tablica loot'u.
 
-## **Wydania:**
+# **Wydania:**
 
 ## **DarkHunt v0.46:**
 
 Download:
 https://drive.google.com/open?id=1AZ8KKdDbIzzzp5Fj1rE9hQmU2azJdJX5
 
-#### **DarkHunt v0.5:**
+## **DarkHunt v0.5:**
 
 Zmiany:
 - UI do trybu kooperacji.
@@ -42,7 +42,7 @@ Zmiany:
 Download:
 https://drive.google.com/open?id=1ONd_JdJ9G9g3Myt8EcceA3KQX57NXLFF
 
-## **Bugi:**
+# **Bugi:**
 - niektóre klipy audio są uszkodzone (dwięk całkowicie się psuje po odtworzeniu ich).
 - ciało gobliniego łucznika spada w dół zamiast zostać na terenie.
 - ciało gracz spada w dół zamiast zostać na terenie.
