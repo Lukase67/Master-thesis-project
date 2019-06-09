@@ -45,7 +45,8 @@ https://drive.google.com/open?id=1ONd_JdJ9G9g3Myt8EcceA3KQX57NXLFF
 
 Bugi:
 - niektóre klipy audio są uszkodzone (dwięk całkowicie się psuje po odtworzeniu ich).
-- ciała goblinich łuczników spadają w dół zamiast zostać na terenie.
-- brak możliwości ataku za pomocą LBM i RBM goblinich łuczników 
+- ciało gobliniego łucznika spada w dół zamiast zostać na terenie.
 - ciało gracz spada w dół zamiast zostać na terenie.
+- brak możliwości ataku za pomocą LBM i RBM goblinich łuczników 
+
 
