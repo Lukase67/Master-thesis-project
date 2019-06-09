@@ -18,9 +18,9 @@
 - obrońcy miasta atakują gracza ze statusem "killer".
 - zdobywanie doświadczenia.
 
-# **Planowane funkcjonalnosci:**
-- synchronizacja danych w grze kooperacyjnej pomiędzy klientami.
-- zapis stanu gry.
+# **Planowane funkcjonalnosci w najbliższych buildach: **
+- synchronizacja danych pomiędzy klientami w grze kooperacyjnej.
+- zapis, odczyt stanu gry.
 - klasy postaci (rycerz, mag, łucznik, nekromanta).
 - system zadań.
 - sklepy, nauczyciele umiejętności.
