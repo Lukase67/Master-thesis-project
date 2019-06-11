@@ -42,6 +42,10 @@ Zmiany:
 Download:
 https://drive.google.com/open?id=1ONd_JdJ9G9g3Myt8EcceA3KQX57NXLFF
 
+## **DarkHunt v0.55:**
+przyszły update.
+![DarkHunt v0.51](https://i.imgur.com/GCAenzZ.jpg)
+
 # **Bugi:**
 - niektóre klipy audio są uszkodzone (dwięk całkowicie się psuje po odtworzeniu ich).
 - ciało gobliniego łucznika spada w dół zamiast zostać na terenie.
